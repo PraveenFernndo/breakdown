@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="welcome">Welcome</string>
+    <string name="getStarted">Get Started</string>
+    <string name="breakdown">Breakdown</string>
+    <string name="job">Find A Job</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="nic">NIC</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="signup_google">or signup with google</string>
+    <string name="login_google">or login with google</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="welcome_message">Welcome, Praveen</string>
+    <string name="userRegistration">User Registration</string>
+    <string name="vehicalRegistration">Vehical Registration</string>
+    <string name="mechanicRegistration">Register As Mechanic</string>
+    <string name="vehicalRegistrationPage">Register Your Vehicle Here</string>
+    <string name="vehicalNumber">Vehicle Number</string>
+    <string name="manufactureYear">Manufacture Year</string>
+    <string name="fuelType">Fuel Type</string>
+    <string name="vehicalModel">Vehicle Model</string>
+    <string name="vehicalType">Vehical Type</string>
+    <string name="vehicalName">Vehical Name</string>
+    <string name="vehicalImages">Upload Vehical Images</string>
+    <string name="petrol">Petrol Stations</string>
+    <string name="garages">Garages</string>
+    <string name="emergancy">Emergancy</string>
+    <string name="confirmArrival">Confirm Your Arrival</string>
+    <string name="mechanic">Find Mechanic</string>
+    <string name="faultMode">Select Fault Mode</string>
+    <string name="mechanicDetails">Mechanic Details</string>
+    <string name="mechanicName">Sanath Nishantha</string>
+    <string name="mechanicType">Battery Mechanic</string>
+    <string name="mechanicContact">Contact - 0764165971</string>
+    <string name="carDetails">Car Details</string>
+    <string name="carName">Honda Vezel 2017</string>
+    <string name="carNumber">CAA 1013</string>
+    <string name="contactDriver">Contact Driver</string>
+    <string name="fault">Battery Not Charging</string>
+    <string name="seeMore">See More</string>
+    <string name="addProfilePhoto">Add Profile Photo</string>
+    <string name="addPhoto">Add Photo</string>
+    <string name="findMechanic">Find Mechanic</string>
+    <string name="homeMechanic">Mechanic Home View</string>
+    <string name="mechanicAvailabilityStart">Start Available</string>
+    <string name="previousWorks">Prevoius Works</string>
+    <string name="mechanicAvailabilityEnd">Finish</string>
+    <string name="vehicleImage">Upload Image</string>
+    <string name="vehicalRegister">Register Vehicle</string>
+    <string name="profileSetup">lets make it easy. Setup your profile</string>
+    <string name="heading1">Choose the best option fot you to get started the registration process</string>
+
+    <string name="mechanicRegistrationTitle">Mechanic Registration</string>
+    <string name="address">Address</string>
+    <string name="line1">Line 01</string>
+    <string name="line2">Line 02</string>
+    <string name="town">Town</string>
+    <string name="city">City</string>
+    <string name="serviceType">Service Type</string>
+
+
+    <string name="tyrePunch">Tyre Punch</string>
+    <string name="suddenlyStopped">Suddenly Stoped</string>
+    <string name="lackOfPetrol">Lack Of Petrol</string>
+    <string name="lowBattery">Low Battery Power</string>
+    <string name="breakIssue">Break Issue</string>
+    <string name="seeAvailableMechanics">Available Mechanics</string>
+
+
+    <string-array name="dropdown">
+        <item>Option1</item>
+        <item>Option2</item>
+        <item>Option3</item>
+    </string-array>
+
+
+</resources>
